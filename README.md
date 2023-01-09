@@ -1,5 +1,5 @@
 # ultra_cnn
-A set of Python scripts for using Keras and TensorFlow to develop and assess "face recognition" methods based on convolutional neural networks for identifying individual tree logs. See the publication E. Holmström, A. Raatevaara, J. Pohjankukka, H. Korpunen, and J. Uusitalo (in preparation) for more information. A classical approach of using local binary patterns is also included.
+A set of Python scripts for using Keras and TensorFlow to develop and assess "face recognition" methods based on convolutional neural networks for identifying individual tree logs. See the publication E. Holmström, A. Raatevaara, J. Pohjankukka, H. Korpunen, and J. Uusitalo (in preparation) for more information. A classical approach using local binary patterns is also included.
 
 The dataset used in the publication can be found on Zenodo:
 
